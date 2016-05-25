@@ -1,0 +1,4 @@
+﻿  sapper.cpp
+d:\users\kolyan\documents\visual studio 2015\projects2\sapper\sapper\sapper.cpp(75): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\users\kolyan\documents\visual studio 2015\projects2\sapper\sapper\sapper.cpp(144): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sapper.vcxproj -> D:\users\kolyan\documents\visual studio 2015\Projects2\sapper\Debug\sapper.exe
